@@ -184,6 +184,7 @@ public class FlujosEstructuras {
 			j++;
 		}
 		System.out.println("hay "+j+" letras que no son espacios");
+		// Así de simple es
 		
 	}
 }
