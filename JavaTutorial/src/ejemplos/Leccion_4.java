@@ -5,6 +5,8 @@ public class Leccion_4 {
 
 	public static void main(String[] args) {
 		// CLASES Y OBJETOS. 
+
+		// Modificacion de Adri
 		
 		
 		//Una CLASE es un tipo de dato complejo. 
